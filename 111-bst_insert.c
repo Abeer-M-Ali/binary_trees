@@ -35,3 +35,5 @@ bst_t *bst_insert(bst_t **tree, int value)
 		}
 		if (value > curr->n) /* insert in right subtree */
 
+}
+
